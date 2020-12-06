@@ -13,3 +13,11 @@ The API is capable of the following:
 * Node.js
 * REST API 
 * MVC (Model-View-Controller) Design Pattern
+
+<br />
+<br />
+
+##### Contact Info
+Feel free to connect with me!
+<br />
+LinkedIn: https://www.linkedin.com/in/irfan-suzali/
